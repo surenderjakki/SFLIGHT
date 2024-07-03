@@ -1,0 +1,93 @@
+{
+  "SFLIGHT_XSA.db.synonyms::SFLIGHT": {
+    "target": {
+      "object": "SFLIGHT",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SAIRPORT": {
+    "target": {
+      "object": "SAIRPORT",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SAPLANE": {
+    "target": {
+      "object": "SAPLANE",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SBOOK": {
+    "target": {
+      "object": "SBOOK",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SBUSPART": {
+    "target": {
+      "object": "SBUSPART",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SCARPLAN": {
+    "target": {
+      "object": "SCARPLAN",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SCARR": {
+    "target": {
+      "object": "SCARR",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SCPLANE": {
+    "target": {
+      "object": "SCPLANE",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SCURR": {
+    "target": {
+      "object": "SCURR",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SCURX": {
+    "target": {
+      "object": "SCURX",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SCUSTOM": {
+    "target": {
+      "object": "SCUSTOM",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SDESSERT": {
+    "target": {
+      "object": "SDESSERT",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  },
+  "SFLIGHT_XSA.db.synonyms::SFLIMEAL": {
+    "target": {
+      "object": "SFLIMEAL",
+      "schema": "SFLIGHT",
+      "database": "HDB"
+    }
+  }
+}
