@@ -1,0 +1,47 @@
+{
+  "role": {
+    "name": "SFLIGHT_XSA.FLATFILE::FLATFILE",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "ALTER",
+          "SELECT",
+          "SELECT CDS METADATA",
+          "SELECT METADATA",
+          "SQLSCRIPT LOGGING",
+          "INSERT",
+          "DELETE",
+          "EXECUTE",
+          "DROP",
+          "INDEX",
+          "CREATE ANY"
+        ],
+        "privileges_with_grant_option": [
+          "ALTER",
+          "CREATE ANY",
+          "DEBUG",
+          "DELETE",
+          "DROP",
+          "EXECUTE",
+          "INSERT",
+          "SELECT",
+          "SELECT CDS METADATA",
+          "SELECT METADATA",
+          "SQLSCRIPT LOGGING"
+        ]
+      }
+    ],
+    "global_roles": [
+      "SFLIGHT_XSA_HDI_FLATFILE_1::external_privileges_role",
+      "SFLIGHT_XSA_HDI_FLATFILE_1::access_role"
+    ],
+    "schema_roles": [
+      {
+        "schema_reference": "SYS_XS_HANA_BROKER",
+        "names": [
+          "XSA_DEV_USER_ROLE"
+        ]
+      }
+    ]
+  }
+}   

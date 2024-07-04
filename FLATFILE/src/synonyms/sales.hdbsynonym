@@ -1,0 +1,8 @@
+{
+  "SFLIGHT_XSA.FLATFILE.synonyms::Synonym_0": {
+    "target": {
+      "object": "SALES",
+      "schema": "SFLIGHT"
+    }
+  }
+}
